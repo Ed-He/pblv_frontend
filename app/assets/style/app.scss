@@ -26,3 +26,30 @@ h1, h2 {
 #page-container {
   padding: 16px;
 }
+
+.panel{
+  margin-bottom:20px;
+  background-color: white;
+  border:1px solid transparent;
+  border-radius:4px;
+  -webkit-box-shadow:0 1px 1px rgba(0,0,0,.05);
+  box-shadow:0 1px 1px rgba(0,0,0,.05);
+}
+
+.panel-red{
+  margin-bottom:20px;
+  background-color: #ff0000;
+  border:1px solid transparent;
+  border-radius:4px;
+  -webkit-box-shadow:0 1px 1px rgba(0,0,0,.05);
+  box-shadow:0 1px 1px rgba(0,0,0,.05);
+}
+
+.panel-blue{
+  margin-bottom:20px;
+  background-color: #0093ff;
+  border:1px solid transparent;
+  border-radius:4px;
+  -webkit-box-shadow:0 1px 1px rgba(0,0,0,.05);
+  box-shadow:0 1px 1px rgba(0,0,0,.05);
+}
