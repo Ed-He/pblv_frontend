@@ -8,8 +8,7 @@
 
 body {
   font-family: sans-serif;
-  background: #424a4d;
-  color: white;
+  background: #c2c5cc;
   margin: 0;
   padding: 0;
 }
@@ -28,8 +27,9 @@ h1, h2 {
 }
 
 .panel{
-  margin-bottom:20px;
-  background-color: white;
+  padding: 15px;
+  margin: 20px;
+  background-color: #fff;
   border:1px solid transparent;
   border-radius:4px;
   -webkit-box-shadow:0 1px 1px rgba(0,0,0,.05);
@@ -47,7 +47,7 @@ h1, h2 {
 
 .panel-blue{
   margin-bottom:20px;
-  background-color: #0093ff;
+  background-color: #005AAA;
   border:1px solid transparent;
   border-radius:4px;
   -webkit-box-shadow:0 1px 1px rgba(0,0,0,.05);
