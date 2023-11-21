@@ -26,10 +26,40 @@ h1, h2 {
   padding: 16px;
 }
 
-.panel{
+.panel-heading{
   padding: 15px;
   margin: 20px;
   background-color: #fff;
+  border:1px solid transparent;
+  border-radius:4px;
+  -webkit-box-shadow:0 1px 1px rgba(0,0,0,.05);
+  box-shadow:0 1px 1px rgba(0,0,0,.05);
+}
+
+.panel-body{
+  padding: 15px;
+  margin: 20px;
+  background-color: #fff;
+  border:1px solid transparent;
+  border-radius:4px;
+  -webkit-box-shadow:0 1px 1px rgba(0,0,0,.05);
+  box-shadow:0 1px 1px rgba(0,0,0,.05);
+}
+
+.block-month{
+  padding: 50px;
+  background-color: #aaaaaa;
+  text-align: center;
+  border:1px solid black;
+  border-radius:4px;
+  -webkit-box-shadow:0 1px 1px rgba(0,0,0,.05);
+  box-shadow:0 1px 1px rgba(0,0,0,.05);
+}
+
+.cube{
+  padding: 50px;
+  background-color: #aaaaaa;
+  text-align: center;
   border:1px solid transparent;
   border-radius:4px;
   -webkit-box-shadow:0 1px 1px rgba(0,0,0,.05);
@@ -46,10 +76,10 @@ h1, h2 {
 }
 
 .panel-blue{
-  margin-bottom:20px;
+  margin-bottom: 20px;
   background-color: #005AAA;
   border:1px solid transparent;
   border-radius:4px;
-  -webkit-box-shadow:0 1px 1px rgba(0,0,0,.05);
-  box-shadow:0 1px 1px rgba(0,0,0,.05);
+  //-webkit-box-shadow:0 1px 1px rgba(0,0,0,.05);
+  //box-shadow:0 1px 1px rgba(0,0,0,.05);
 }
